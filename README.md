@@ -8,7 +8,7 @@ Terminal: Xfce one with tokyo's color scheme <br>
 Fonts: terminal - Hack, desktop - Noto Sans  <br> <br>
 Firefox: <br>
 (about:config): css.devPixelsPerPx: 0.9, browser.compactmode.show: true <br>
-Theme: <a href="https://addons.mozilla.org/en-US/firefox/addon/complete-black-theme-for-firef">Complete Dark theme for Firefox</a> (or <a href="https://addons.mozilla.org/en-US/firefox/addon/tokyonight_vim/">Tokyo-Night</a> <br> <br>
+Theme: <a href="https://addons.mozilla.org/en-US/firefox/addon/complete-black-theme-for-firef">Complete Dark theme for Firefox</a> (or <a href="https://addons.mozilla.org/en-US/firefox/addon/tokyonight_vim/">Tokyo-Night</a>) <br> <br>
 qBittorrent theme: <a href="https://github.com/maboroshin/qBittorrentDarktheme">Iceberg</a> <br>
 VSCode theme: <a href="https://github.com/enkia/tokyo-night-vscode-theme">Tokyo-Night</a> <br> <br>
 Xmodmap: Modded for Chromebook (with iso key swapped as Super L and Caps Lock instead of Search button <br> <br>
