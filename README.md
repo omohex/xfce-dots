@@ -1,5 +1,5 @@
-# dots
-
+# xfce4-dotfiles
+<img src="screenshot.png" width="525" height="" > <br> <br>
 Icons: Papirus-Dark (/w papirus-folders bluegrey) <br>
 Windows Theme: <a href="https://github.com/Fausto-Korpsvart/Tokyo-Night-GTK-Theme">Tokyo Night</a>  <br> 
 Cursor: <a href="https://github.com/ful1e5/apple_cursor">apple_cursor</a>  <br>
