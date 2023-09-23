@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="configver" type="int" value="2"/>
+  <property name="panels" type="array">
+    <value type="int" value="1"/>
+    <value type="int" value="2"/>
+    <value type="int" value="3"/>
+    <property name="dark-mode" type="bool" value="true"/>
+    <property name="panel-1" type="empty">
+      <property name="position" type="string" value="p=4;x=1219;y=751"/>
+      <property name="length" type="double" value="1"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="icon-size" type="uint" value="0"/>
+      <property name="size" type="uint" value="32"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="7"/>
+        <value type="int" value="6"/>
+        <value type="int" value="8"/>
+        <value type="int" value="9"/>
+        <value type="int" value="11"/>
+        <value type="int" value="12"/>
+        <value type="int" value="4"/>
+      </property>
+      <property name="background-style" type="uint" value="1"/>
+      <property name="background-rgba" type="array">
+        <value type="double" value="0.10196078431372549"/>
+        <value type="double" value="0.10588235294117647"/>
+        <value type="double" value="0.14901960784313725"/>
+        <value type="double" value="0.80201342281879195"/>
+      </property>
+      <property name="enter-opacity" type="uint" value="100"/>
+      <property name="mode" type="uint" value="0"/>
+      <property name="length-adjust" type="bool" value="true"/>
+    </property>
+    <property name="panel-2" type="empty">
+      <property name="position" type="string" value="p=12;x=571;y=751"/>
+      <property name="size" type="uint" value="32"/>
+      <property name="length" type="double" value="78.696925329428993"/>
+      <property name="background-style" type="uint" value="1"/>
+      <property name="background-rgba" type="array">
+        <value type="double" value="0"/>
+        <value type="double" value="0"/>
+        <value type="double" value="0"/>
+        <value type="double" value="0"/>
+      </property>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="length-adjust" type="bool" value="true"/>
+      <property name="nrows" type="uint" value="1"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="2"/>
+      </property>
+    </property>
+    <property name="panel-3" type="empty">
+      <property name="position" type="string" value="p=8;x=29;y=751"/>
+      <property name="size" type="uint" value="32"/>
+      <property name="length" type="double" value="1"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="26"/>
+      </property>
+      <property name="length-adjust" type="bool" value="true"/>
+      <property name="enable-struts" type="bool" value="true"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="background-style" type="uint" value="1"/>
+      <property name="background-rgba" type="array">
+        <value type="double" value="0.10196078431372549"/>
+        <value type="double" value="0.10588235294117647"/>
+        <value type="double" value="0.14901960784313725"/>
+        <value type="double" value="0.80201342281879195"/>
+      </property>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="plugin-6" type="string" value="systray">
+      <property name="square-icons" type="bool" value="true"/>
+      <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “domowy2_5g” active: domowy2_5g (94%)"/>
+        <value type="string" value="wi-fi network connection “internet ale z anime ” active: internet ale z anime  (100%)"/>
+        <value type="string" value="wi-fi network connection “domowy2_5g” active: domowy2_5g (84%)"/>
+        <value type="string" value="wi-fi network connection “domowy2_5g” active: domowy2_5g (62%)"/>
+        <value type="string" value="wi-fi network connection “domowy2_5g” active: domowy2_5g (67%)"/>
+        <value type="string" value="wi-fi network connection “domowy2_5g” active: domowy2_5g (83%)"/>
+        <value type="string" value="wi-fi network connection “domowy2_5g” active: domowy2_5g (65%)"/>
+        <value type="string" value="wi-fi network connection “domowy2_5g” active: domowy2_5g (92%)"/>
+        <value type="string" value="wi-fi network connection “domowy2_5g” active: domowy2_5g (59%)"/>
+        <value type="string" value="wi-fi network connection “domowy2_5g” active: domowy2_5g (55%)"/>
+        <value type="string" value="wi-fi network connection “domowy2_5g” active: domowy2_5g (58%)"/>
+        <value type="string" value="wi-fi network connection “domowy2_5g” active: domowy2_5g (56%)"/>
+        <value type="string" value="wi-fi network connection “domowy2_5g” active: domowy2_5g (89%)"/>
+        <value type="string" value="wi-fi network connection “domowy2_5g” active: domowy2_5g (86%)"/>
+        <value type="string" value="wi-fi network connection “domowy2_5g” active: domowy2_5g (93%)"/>
+        <value type="string" value="wi-fi network connection “domowy2_5g” active: domowy2_5g (90%)"/>
+        <value type="string" value="wi-fi network connection “domowy2_5g” active: domowy2_5g (95%)"/>
+        <value type="string" value="wi-fi network connection “domowy2_5g” active: domowy2_5g (81%)"/>
+        <value type="string" value="wi-fi network connection “domowy2_5g” active: domowy2_5g (88%)"/>
+        <value type="string" value="wi-fi network connection “domowy2_5g” active: domowy2_5g (91%)"/>
+        <value type="string" value="wi-fi network connection “domowy2_5g” active: domowy2_5g (87%)"/>
+        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="firewall-applet"/>
+        <value type="string" value="ethernet network connection “wired connection 1” active"/>
+      </property>
+      <property name="known-items" type="array">
+        <value type="string" value="blueman"/>
+        <value type="string" value="steam"/>
+        <value type="string" value="Screenkey"/>
+        <value type="string" value="multiload"/>
+        <value type="string" value="spotify-client"/>
+        <value type="string" value="qBittorrent"/>
+        <value type="string" value="chrome_status_icon_1"/>
+        <value type="string" value="firewall-applet"/>
+      </property>
+    </property>
+    <property name="plugin-8" type="string" value="pulseaudio">
+      <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
+      <property name="show-notifications" type="bool" value="true"/>
+      <property name="known-players" type="string" value="Celluloid;Chrome;Firefox Web Browser;Spotify"/>
+    </property>
+    <property name="plugin-9" type="string" value="power-manager-plugin"/>
+    <property name="plugin-11" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-26" type="string" value="whiskermenu">
+      <property name="button-title" type="string" value=" Start  "/>
+      <property name="button-icon" type="string" value="fcitx-pinyin"/>
+      <property name="show-button-title" type="bool" value="false"/>
+      <property name="view-mode" type="int" value="1"/>
+      <property name="favorites-in-recent" type="bool" value="true"/>
+      <property name="position-search-alternate" type="bool" value="true"/>
+      <property name="position-commands-alternate" type="bool" value="true"/>
+      <property name="position-categories-alternate" type="bool" value="false"/>
+      <property name="menu-width" type="int" value="295"/>
+      <property name="menu-height" type="int" value="480"/>
+      <property name="command-switchuser" type="string" value="dm-tool switch-to-greeter"/>
+      <property name="show-command-restart" type="bool" value="true"/>
+      <property name="show-command-shutdown" type="bool" value="true"/>
+      <property name="show-command-menueditor" type="bool" value="false"/>
+      <property name="show-command-profile" type="bool" value="false"/>
+      <property name="favorites" type="array">
+        <value type="string" value="google-chrome.desktop"/>
+        <value type="string" value="firefox.desktop"/>
+        <value type="string" value="code-oss.desktop"/>
+        <value type="string" value="xfce4-terminal-emulator.desktop"/>
+        <value type="string" value="chrome-efmjfjelnicpmdcmfikempdhlmainjcb-Default.desktop"/>
+        <value type="string" value="htop.desktop"/>
+        <value type="string" value="discord.desktop"/>
+        <value type="string" value="caprine.desktop"/>
+        <value type="string" value="onlyoffice-desktopeditors.desktop"/>
+        <value type="string" value="wine-Programs-Adobe-Adobe Photoshop CS6-Adobe Photoshop CS6 x64.desktop"/>
+        <value type="string" value="spotify.desktop"/>
+        <value type="string" value="org.qbittorrent.qBittorrent.desktop"/>
+        <value type="string" value="welcome.desktop"/>
+      </property>
+      <property name="recent" type="array">
+        <value type="string" value="xfce-ui-settings.desktop"/>
+        <value type="string" value="xfce4-terminal-emulator.desktop"/>
+        <value type="string" value="google-chrome.desktop"/>
+        <value type="string" value="thunar.desktop"/>
+        <value type="string" value="gparted.desktop"/>
+        <value type="string" value="code-oss.desktop"/>
+        <value type="string" value="firefox.desktop"/>
+        <value type="string" value="lstopo.desktop"/>
+        <value type="string" value="bauh.desktop"/>
+        <value type="string" value="lightdm-settings.desktop"/>
+      </property>
+      <property name="search-actions" type="int" value="7">
+        <property name="action-0" type="empty">
+          <property name="name" type="string" value="Man Pages"/>
+          <property name="pattern" type="string" value="#"/>
+          <property name="command" type="string" value="exo-open --launch TerminalEmulator man %s"/>
+          <property name="regex" type="bool" value="false"/>
+        </property>
+        <property name="action-1" type="empty">
+          <property name="name" type="string" value="Search the Web"/>
+          <property name="pattern" type="string" value="?"/>
+          <property name="command" type="string" value="exo-open --launch WebBrowser https://duckduckgo.com/?q=%u"/>
+          <property name="regex" type="bool" value="false"/>
+        </property>
+        <property name="action-2" type="empty">
+          <property name="name" type="string" value="Search for Files"/>
+          <property name="pattern" type="string" value="-"/>
+          <property name="command" type="string" value="catfish --path=~ --start %s"/>
+          <property name="regex" type="bool" value="false"/>
+        </property>
+        <property name="action-3" type="empty">
+          <property name="name" type="string" value="Wikipedia"/>
+          <property name="pattern" type="string" value="!w"/>
+          <property name="command" type="string" value="exo-open --launch WebBrowser https://en.wikipedia.org/wiki/%u"/>
+          <property name="regex" type="bool" value="false"/>
+        </property>
+        <property name="action-4" type="empty">
+          <property name="name" type="string" value="Run in Terminal"/>
+          <property name="pattern" type="string" value="!"/>
+          <property name="command" type="string" value="exo-open --launch TerminalEmulator %s"/>
+          <property name="regex" type="bool" value="false"/>
+        </property>
+        <property name="action-5" type="empty">
+          <property name="name" type="string" value="Open URI"/>
+          <property name="pattern" type="string" value="^(file|http|https):\/\/(.*)$"/>
+          <property name="command" type="string" value="exo-open \0"/>
+          <property name="regex" type="bool" value="true"/>
+        </property>
+        <property name="action-6" type="empty">
+          <property name="name" type="string" value="EndeavourOS Forum"/>
+          <property name="pattern" type="string" value="forum"/>
+          <property name="command" type="string" value="exo-open --launch WebBrowser https://forum.endeavouros.com"/>
+          <property name="regex" type="bool" value="false"/>
+        </property>
+      </property>
+      <property name="launcher-show-description" type="bool" value="false"/>
+      <property name="menu-opacity" type="int" value="72"/>
+      <property name="confirm-session-command" type="bool" value="false"/>
+      <property name="profile-shape" type="int" value="2"/>
+      <property name="launcher-icon-size" type="int" value="1"/>
+      <property name="category-icon-size" type="int" value="1"/>
+      <property name="launcher-show-name" type="bool" value="true"/>
+      <property name="show-command-lockscreen" type="bool" value="false"/>
+      <property name="show-command-logout" type="bool" value="true"/>
+      <property name="show-command-settings" type="bool" value="false"/>
+      <property name="button-single-row" type="bool" value="false"/>
+      <property name="default-category" type="int" value="0"/>
+      <property name="show-button-icon" type="bool" value="true"/>
+      <property name="launcher-show-tooltip" type="bool" value="true"/>
+      <property name="position-categories-horizontal" type="bool" value="false"/>
+      <property name="position-profile-alternate" type="bool" value="false"/>
+      <property name="recent-items-max" type="int" value="10"/>
+    </property>
+    <property name="plugin-12" type="string" value="datetime"/>
+    <property name="plugin-7" type="string" value="systemload">
+      <property name="uptime" type="empty">
+        <property name="enabled" type="bool" value="false"/>
+      </property>
+      <property name="network" type="empty">
+        <property name="enabled" type="bool" value="false"/>
+      </property>
+      <property name="swap" type="empty">
+        <property name="enabled" type="bool" value="false"/>
+      </property>
+      <property name="memory" type="empty">
+        <property name="label" type="string" value="m"/>
+      </property>
+      <property name="cpu" type="empty">
+        <property name="label" type="string" value="p"/>
+      </property>
+    </property>
+    <property name="plugin-4" type="string" value="separator">
+      <property name="style" type="uint" value="1"/>
+    </property>
+    <property name="plugin-2" type="string" value="tasklist">
+      <property name="show-labels" type="bool" value="true"/>
+      <property name="show-handle" type="bool" value="true"/>
+      <property name="show-tooltips" type="bool" value="true"/>
+      <property name="flat-buttons" type="bool" value="true"/>
+      <property name="show-only-minimized" type="bool" value="false"/>
+      <property name="include-all-workspaces" type="bool" value="false"/>
+    </property>
+  </property>
+</channel>
