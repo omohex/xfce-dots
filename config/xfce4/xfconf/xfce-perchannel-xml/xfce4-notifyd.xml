@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <channel name="xfce4-notifyd" version="1.0">
-  <property name="notify-location" type="uint" value="2"/>
-  <property name="log-level" type="uint" value="0"/>
-  <property name="log-level-apps" type="uint" value="0"/>
   <property name="applications" type="empty">
     <property name="known_applications" type="array">
       <value type="string" value="bleachbit"/>
+      <value type="string" value="blueman"/>
       <value type="string" value="discord"/>
       <value type="string" value="EndeavourOS Update Notifier"/>
       <value type="string" value="eos-reboot-required2"/>
@@ -17,6 +15,8 @@
       <value type="string" value="org.qbittorrent.qBittorrent"/>
       <value type="string" value="org.xfce.Thunar"/>
       <value type="string" value="Spotify"/>
+      <value type="string" value="System Config Printer Notification"/>
+      <value type="string" value="ulauncher"/>
       <value type="string" value="Xfce volume control"/>
       <value type="string" value="Xfce4-notifyd settings"/>
       <value type="string" value="xfce4-power-manager"/>
@@ -25,4 +25,7 @@
   </property>
   <property name="log-max-size-enabled" type="bool" value="true"/>
   <property name="show-notifications-on" type="string" value="active-monitor"/>
+  <property name="log-level" type="string" value="not-fully-shown"/>
+  <property name="log-level-apps" type="string" value="all"/>
+  <property name="notify-location" type="string" value="top-right"/>
 </channel>
