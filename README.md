@@ -6,9 +6,9 @@ Cursor: <a href="https://github.com/ful1e5/apple_cursor">apple_cursor</a>  <br>
 Wallpaper: <a href="wallpaper.png">here</a>  <br>
 Terminal: XFCE Terminal with <a href="https://github.com/HexyHack/tokyo-night-xfce-terminal">Tokyo Night color scheme</a> <br>
 Fonts: <br>
-- Terminal: Hack Regular <br>
-- System: SF Pro Display Regular <br>
-- Monospace: SF Mono Regular <br> <br>
+>Terminal: Hack Regular <br>
+>System: SF Pro Display Regular <br>
+>Monospace: SF Mono Regular <br> <br>
 Firefox: <br>
 Addons: <a href="https://addons.mozilla.org/en-US/firefox/addon/youtube-window-fullscreen/">Tree Style View</a>, <a href="https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/">YT Windowed Fullscreen</a>
 (about:config): css.devPixelsPerPx: 0.9, browser.compactmode.show: true <br>
