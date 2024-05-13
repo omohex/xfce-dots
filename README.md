@@ -16,7 +16,7 @@ zsh with oh my zsh<br>
 Plugins: zsh-autosuggestions & zsh-syntax-highlighting 
 <br> <br>
 <h2>Firefox:</h2> <br>
-about:config settings: <code>css.devPixelsPerPx: 0.9
+about:config settings: <code>css.devPixelsPerPx: 0.9 
 browser.compactmode.show: true</code> <br>
 Theme: <a href="https://addons.mozilla.org/en-US/firefox/addon/no-face-spirited-away/">No Face - Spirited Away</a> <br> <br>
 Xmodmap config: Modded for Chromebook (with iso key swapped as Super L and Caps Lock instead of Search button. Brightness keys on keyboard are not working.
