@@ -6,7 +6,7 @@ Icons: <a href="https://github.com/zayronxio/Zafiro-icons">Zafiro-icons Light</a
 GTK Theme: <a href="https://github.com/Fausto-Korpsvart/Tokyo-Night-GTK-Theme">Tokyo Night GTK Theme</a>  <br> 
 Cursor: <a href="https://github.com/alvatip/Borealis-cursors">Borealis_cursors</a>  <br>
 XFCE Terminal: <a href="https://github.com/HexyHack/tokyo-night-xfce-terminal">Tokyo Night color scheme</a> <br>
-xfce4-docklike-taskbar <br> <br>
+xfce4-docklike-taskbar plugin <br> <br>
 <h2>Fonts:</h2> <br>
 System - SF Pro Display Regular <br>
 Monospace - SF Mono Regular <br> 
