@@ -1,6 +1,6 @@
 # my_xfce4_dots
 <img src="screenshot.png" width="550" height="" > <br> <br>
-Documentation and Installation: Soon.
+Documentation and Installation: Soon. <br>
 Mains: <br>
 Icons: <a href="https://github.com/zayronxio/Zafiro-icons">Zafiro-icons Light</a> <br>
 GTK Theme: <a href="https://github.com/Fausto-Korpsvart/Tokyo-Night-GTK-Theme">Tokyo Night GTK Theme</a>  <br> 
