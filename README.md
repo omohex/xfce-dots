@@ -13,7 +13,7 @@ Monospace - SF Mono Regular <br>
 Terminal - Hack Regular <br> <br>
 <h2>Shell:</h2> <br>
 zsh with oh my zsh<br>
-Plugins: zsh-autosuggestions & zsh-syntax-highlighting 
+Plugins: zsh-autosuggestions & zsh-syntax-highlighting <br>
 Theme: Powerlevel 10k
 <br> <br>
 <h2>Firefox:</h2> <br>
