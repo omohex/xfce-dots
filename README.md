@@ -1,4 +1,4 @@
-# my_xfce4_dots
+# xfce_dots
 <img src="screenshot.png" width="550" height="" > <br> <br>
 More information and Installation process: Soon. <br> <br>
 <h2>Mains:</h2> <br>
